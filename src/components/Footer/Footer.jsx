@@ -29,9 +29,9 @@ const Footer = () => {
         </div>
         <div className="container">
           <h4>Connect with us</h4>
-          <p>+00 000 000 00</p>
-          <p>zk@gmail.com</p>
-          <p>© All Rights Reserved By CodeWithZeeshu.</p>
+          <p>+916204923300</p>
+          <p>rahulksp011@gmail.com</p>
+          <p>© All Rights Reserved</p>
         </div>
       </footer>
     </>

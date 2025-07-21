@@ -10,15 +10,15 @@ const SubContact = () => {
           <h3>Let's connect</h3>
           <div>
             <p>Phone</p>
-            <span>+001 1234 999</span>
+            <span>+916204923300</span>
           </div>
           <div>
             <p>Email</p>
-            <span>zk@gmail.com</span>
+            <span>rahulksp011@gmail.com</span>
           </div>
           <div>
             <p>Address</p>
-            <span>House No.123 Sector A-1</span>
+            <span>House No.123 Samastipur, Bihar</span>
           </div>
           <ul>
           <Link to={"/facebook"} target="_blank"><RiFacebookBoxLine/></Link>
